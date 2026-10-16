@@ -1,2 +1,2 @@
 # linxi.github.io
-linxi's personal website
+Archived - linxi's personal website
